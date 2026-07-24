@@ -301,7 +301,3 @@ MSc Artificial Intelligence, University of Leeds.
 ```
 
 ---
-
-## License
-
-This project was developed as part of an MSc dissertation. Please contact the author for usage permissions.
